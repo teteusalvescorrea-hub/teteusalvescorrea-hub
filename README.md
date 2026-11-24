@@ -17,7 +17,7 @@ Sistema web criado para a Autoescola KM que centraliza alunos, aulas, instrutore
 - Desenvolvo o front-end em HTML, CSS e JavaScript, com layout responsivo
 - Apoio o desenvolvimento do back-end em C#/.NET e do banco de dados SQL Server
 
-[![Ver apresentação completa do agIA](https://img.shields.io/badge/Ver%20apresenta%C3%A7%C3%A3o%20completa%20do%20agIA-1572B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teteusalvescorrea-hub/agia)
+[![Ver telas e detalhes do projeto](https://img.shields.io/badge/Ver%20telas%20e%20detalhes%20do%20projeto%20%E2%86%92-1572B6?style=for-the-badge)](https://github.com/teteusalvescorrea-hub/agia)
 
 ### [GymPlanner](https://github.com/teteusalvescorrea-hub/GymPlanner)
 
